@@ -2,6 +2,11 @@
 A plugin for Unity which lets you include procedural and adaptative music to your game.  
 Check the publication paper here: https://docta.ucm.es/entities/publication/8e5799fb-6f73-474a-870a-8e74b26efd6d
 
+Made by:
+- Alberto Córdoba Ortiz (https://github.com/albcor01)
+- Juan Ruiz Jiménez 
+- Ramón Arjona Quiñones (https://github.com/ramonarj)
+
 ## How to install:
 
 ### SUPERCOLLIDER
@@ -22,3 +27,10 @@ Check the publication paper here: https://docta.ucm.es/entities/publication/8e57
 3. Customize the procedural music within this window and save. A new GameObject should appear in the scene.
 4. Customize, if needed, the procedural tuples in this GameObject's inspector
 5. When pressing "Play" in the Editor, the music should start playing after a few seconds
+
+## Bibliography:
+
+- UnityOSC by Jorge García: https://github.com/jorgegarcia/UnityOSC
+- EditorGUILayout reference from Unity: https://docs.unity3d.com/ScriptReference/EditorGUILayout.html
+- SuperCollider tutorials: https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC
+- SuperCollider documentation: http://doc.sccode.org/
