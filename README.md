@@ -1,5 +1,6 @@
 # MusicMaker
-A plugin for Unity which lets you include procedural and adaptative music to your game
+A plugin for Unity which lets you include procedural and adaptative music to your game.  
+Check the publication paper here: https://docta.ucm.es/entities/publication/8e5799fb-6f73-474a-870a-8e74b26efd6d
 
 ## How to install:
 
@@ -7,7 +8,7 @@ A plugin for Unity which lets you include procedural and adaptative music to you
 
 1. Go to https://supercollider.github.io/ and download SuperCollider's last stable version
 2. Open SuperCollider and check your computer's "Extensions" folder route by executing the line "Platform.systemExtensionDir;" (Ctrl + .)
-3. Move all Supercollider files,as well as th "buffers" folder into that Extensions folder 
+3. Move all Supercollider files, as well as the "buffers" folder into that Extensions folder 
 4. Compile all SuperCollider classes with "Language >> recompile class library"
 5. Open the startup file with "file >> open startup file"
 6. Paste the contents of main.scd into this startup file
